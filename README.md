@@ -1,1 +1,1 @@
-# Focused-Window-Checker
+# Focused Window Checker
